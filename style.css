@@ -1,0 +1,53 @@
+body{
+    text-align:center;
+    font-size:30px;
+     background-color:#E6EE9C;
+    background-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="36" height="72" viewBox="0 0 36 72"%3E%3Cg fill-rule="evenodd"%3E%3Cg fill="%239C92AC" fill-opacity="0.4"%3E%3Cpath d="M2 6h12L8 18 2 6zm18 36h12l-6 12-6-12z"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+  }
+  h2{
+      color: indianred;
+  }
+  #one{
+    font-size:18px;
+    background-color:green;
+    color:white;
+    font-style:bold;
+  }
+  h4 label{
+      background-color: burlywood;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding: 5px;
+      border: 1px solid black;
+      
+  }
+
+  #two{
+    font-size:18px;
+    background-color: darkcyan;
+    color:white;
+    font-style:bold;
+  }
+
+  #three{
+    font-size:18px;
+    background-color: darkorange;
+    color:white;
+    font-style:bold;
+  }
+
+
+  #final_cost1{
+
+    color:green;
+  }
+
+  #final_cost2{
+
+    color:darkcyan;
+  }
+
+  #final_cost3{
+
+    color:darkorange;
+  }
